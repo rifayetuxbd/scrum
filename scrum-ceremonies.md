@@ -23,7 +23,6 @@ Use the sprint planning meeting to flesh out intimate details of the work that n
 </details>
 
 <!--  -->
-<br>
 <!--  -->
 
 ### 2. Daily stand-up
@@ -53,7 +52,6 @@ Some teams use timers to keep everyone on track. Others toss a ball across the t
 </details>
 
 <!--  -->
-<br>
 <!--  -->
 
 ### 3. Iteration review
@@ -82,7 +80,6 @@ At Atlassian, we take a casual approach to sprint reviews and give them a celebr
 
 
 <!--  -->
-<br>
 <!--  -->
 
 ### 4. Retrospective
@@ -109,9 +106,7 @@ Even if things are going well across the team, don't stop doing retrospectives. 
 
 
 <!--  -->
-<br>
 <hr>
-<br>
 <!--  -->
 
 > ***Some people think agile ceremonies magically make a team agile. They're wrong.***

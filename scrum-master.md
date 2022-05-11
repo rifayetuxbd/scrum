@@ -5,7 +5,6 @@
 As the title implies, the scrum master is the master of scrum, who ensures the scrum framework is followed. Scrum has a clearly defined set of roles and rituals that should be followed and the scrum master works with each member of the scrum team to guide and coach the team through the scrum framework.
 
 <!--  -->
-<br>
 <!--  -->
 
 ### What is a scrum master?
@@ -14,7 +13,6 @@ Scrum masters are the facilitators of scrum, the lightweight agile framework wit
 ![scrum-master](./assets/images/scrum-master.png)
 
 <!--  -->
-<br>
 <!--  -->
 
 ### Scrum master responsibilities
@@ -48,9 +46,7 @@ Iteration/sprint planning meetings – Protect the team from over-committing and
 </details>
 
 <!--  -->
-<br>
 <hr>
-<br>
 <!--  -->
 
 ### Do I need a scrum master?
@@ -67,9 +63,7 @@ Unfortunately, misunderstanding of the scrum master role often leads existing ma
 
 
 <!--  -->
-<br>
 <hr>
-<br>
 <!--  -->
 
 ### Scrum master vs. product manager
@@ -82,9 +76,7 @@ That's why the scrum master and product owner fill two different needs on a scru
 
 
 <!--  -->
-<br>
 <hr>
-<br>
 <!--  -->
 
 ### Scrum master vs. project manager
@@ -98,9 +90,7 @@ The scrum master helps the team enhance and streamline the processes by which th
 These are just a few of the possible configurations of scrum team management. Some organizations make due with all of these roles, some have one or none.
 
 <!--  -->
-<br>
 <hr>
-<br>
 <!--  -->
 
 ### Scrum masters and the greater org
